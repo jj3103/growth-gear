@@ -118,7 +118,7 @@ To test the API in **Postman**, import the collection by following these steps:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/jj3103/
+git clone https://github.com/jj3103/growth-gear
 cd your-repo
 ```
 
